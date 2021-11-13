@@ -1,2 +1,5 @@
-# DockerBasics.github.io
-Notes on Docker basics from when I learnt them!
+# Basics of Docker
+
+Notes on the basics of Docker!
+
+https://nishanth-gobi.github.io/DockerBasics.github.io/
